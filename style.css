@@ -14,7 +14,7 @@ body {
   color: #fff;
   display: flex;
   flex-direction: column;/*规定灵活项目的方向：灵活的项目将垂直显示*/
-  align-content: center;
+  align-items: center;
   justify-content: center;
   text-align: center;
   margin: 0;
